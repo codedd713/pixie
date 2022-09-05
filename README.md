@@ -9,7 +9,7 @@ What can pixie do:
 
 - Simulate DHCP client behaviour for DISCOVER, RELEASE and RENEW operations
 - Simulate DHCP Relay Agent behaviour
-- Target multiple DHCP server
+- Target multiple DHCP servers
 - Send bulk requests in sequence, with multiple MAC addresses
 - Use Option 82 common suboptions 1,2,5
 - Pixie will generate a random MAC address if not provided
